@@ -1,3 +1,4 @@
 author = Tyler1464
 version = 0.1
 displayName = Pandemonium
+homepage = https://forums.terraria.org/index.php?threads/dont-mind-here.70128/
